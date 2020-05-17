@@ -1,2 +1,0 @@
-# Vanila
-Created with CodeSandbox
